@@ -105,30 +105,30 @@
       </td>
     </tr>
   </table>
+  <table>
+   <tr>
       <td>
-        <table>
+        <table cellspacing="0">
           <tr>
-            <td>
             <td>Programming</td>
             <td>⭐️⭐️⭐️</td>
           </tr>
-          <td>
-          <td>Process Improvement</td>
-          <td>⭐️⭐️⭐️⭐️⭐️</td>
-    </tr>
-    <td>
-    <td>Risk Management</td>
-    <td>⭐️⭐️⭐️⭐️⭐️</td>
-    <td>
+          <tr>
+            <td>Process Improvement</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+          </tr>
+          <tr>
+           <td>Risk Management</td>
+           <td>⭐️⭐️⭐️⭐️⭐️</td>
+          </tr>
+          <tr>
+            <td>Vendor & Partner Management</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+          </tr>
+         </table>
+        </td>
       </tr>
-    <td>
-    <td>Vendor & Partner Management</td>
-    <td>⭐️⭐️⭐️⭐️⭐️</td>
-    </tr>
-  </table>
-  </td>
-  </tr>
-  </table>
+     </table>
   <hr>
 
   <h4>Detailed CV</h4>
