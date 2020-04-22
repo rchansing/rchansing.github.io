@@ -74,7 +74,7 @@
     </tr>
     <tr>
       <td>1995-1997</td>
-      <td>Educator</td>
+      <td>System Administrator</td>
       <td>AMA</td>
       <td>Philippines</td>
     </tr>
