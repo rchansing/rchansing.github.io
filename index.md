@@ -4,21 +4,6 @@
 <head>
   <meta charset="utf-8">
   <title>Rhaponzolo Chansing WebSite</title>
-
-    <style>
-     body {
-      background-color: #F0FFFF;
-     }
-     hr {
-       border-style: dotted none none;
-       width: 10%;d
-       border-color: grey;
-       border-width: 5px;
-       border-style: dotted none none;
-       width: 5%;
-     }
-
-   </style>
 </head>
 
 <body>
