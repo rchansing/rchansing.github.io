@@ -104,6 +104,7 @@
         </table>
       </td>
     </tr>
+  </table>
       <td>
         <table>
           <tr>
