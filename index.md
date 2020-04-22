@@ -14,6 +14,7 @@
         <h1>Rhaponzolo Chansing</h1>
         <strong>Project & Program Manager</strong>
         <p>George Washington University School of Business | PMP | Industrial Electronics</p>
+      </td>
     </tr>
   </table>
   <table style="width:70%" border="0" cellspacing="0">
