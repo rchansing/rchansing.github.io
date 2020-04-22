@@ -21,7 +21,7 @@
     <tr>
       <th>email:rchansing@yahoo.com</th>
       <th>Mob:+971523880864</th>
-      <th><a href="https://rchansing.github.io/CV/">My Detailed CV</a></th>
+      <th><a href="https://rchansing.github.io">My Detailed CV</a></th>
       <th>in:linkedin.com/in/rchansing</th>
       <th>Add: Dubai, UAE</th>
     </tr>
