@@ -111,7 +111,7 @@
         <table cellspacing="0">
           <tr>
             <td>Programming</td>
-            <td>⭐️⭐️⭐️</td>
+            <td>⭐️⭐️⭐️⭐️</td>
           </tr>
           <tr>
             <td>Process Improvement</td>
