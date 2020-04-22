@@ -17,7 +17,7 @@
       </td>
     </tr>
   </table>
-  <table style="width:90%" border="0" cellspacing="0">
+  <table style="width:100%" border="0" cellspacing="0">
     <tr>
       <th>email:rchansing@yahoo.com</th>
       <th>Mob:+971523880864</th>
