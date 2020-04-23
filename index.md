@@ -17,10 +17,10 @@
       </td>
     </tr>
   </table>
-  <table style="width:70%" border="0" cellspacing="0">
+  <table style="width:100%" border="0" cellspacing="0">
     <tr>
       <th>email:rchansing@yahoo.com</th>
-      <th>Mob:+971523880864</th>
+      <th>Mob:+971 52388 0864</th>
       <th><a href="Detailed CV.html">My Detailed CV</a></th>
       <th>in:linkedin.com/in/rchansing</th>
       <th>Add: Dubai, UAE</th>
@@ -28,7 +28,7 @@
   </table>
   <hr />
   <h3>Work Experience</h3>
-  <table cellspacing="10">
+  <table style="width:100%" cellspacing="10">
     <colgroup span="4"></colgroup>
     <tr>
       <th>Date</th>
