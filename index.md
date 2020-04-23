@@ -134,11 +134,12 @@ th, td {
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
 </table>
-
+  <hr/>
   <h4>Detailed CV</h4>
   <ol>
     <a href="Detailed CV.html">Detailed CV</a>
   </ol>
+  </hr>
   <h4>Implemented Technologies and Business Solutions</h4>
   <ol>
     <a href="Implemented Technologies and Business Solutions.html">Implemented Technologies and Business Solutions</a>
