@@ -139,7 +139,7 @@ th, td {
   <ol>
     <a href="Detailed CV.html">Detailed CV</a>
   </ol>
-  </hr>
+  <hr/>
   <h4>Implemented Technologies and Business Solutions</h4>
   <ol>
     <a href="Implemented Technologies and Business Solutions.html">Implemented Technologies and Business Solutions</a>
