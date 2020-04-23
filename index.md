@@ -90,11 +90,9 @@ th, td {
   text-align: left;
 }
 </style>
-</head>
 
 <body>
 <table style="width:40%">
-  <caption><strong>24 yrs in the marketplace</strong></caption>
   <tr>
     <th>Skill Set</th>
     <th>Expertise</th>
