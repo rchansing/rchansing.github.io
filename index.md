@@ -80,56 +80,62 @@
     </tr>
   </table>
   <hr>
-  <h3>Skills</h3>
-  <table>
-    <tr>
-      <td>
-        <table cellspacing="0">
-          <tr>
-            <td>Contract Life-Cycle</td>
-            <td>⭐️⭐️⭐️⭐️⭐️</td>
-          </tr>
-          <tr>
-            <td>Negotiation</td>
-            <td>⭐️⭐️⭐️⭐️⭐️</td>
-          </tr>
-          <tr>
-            <td>Business Analysis</td>
-            <td>⭐️⭐️⭐️⭐️⭐️</td>
-          </tr>
-          <tr>
-            <td>Technical Writing</td>
-            <td>⭐️⭐️⭐️⭐️⭐️</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-  <table>
-   <tr>
-      <td>
-        <table cellspacing="0">
-          <tr>
-            <td>Programming</td>
-            <td>⭐️⭐️⭐️⭐️</td>
-          </tr>
-          <tr>
-            <td>Process Improvement</td>
-            <td>⭐️⭐️⭐️⭐️⭐️</td>
-          </tr>
-          <tr>
-           <td>Risk Management</td>
-           <td>⭐️⭐️⭐️⭐️⭐️</td>
-          </tr>
-          <tr>
-            <td>Vendor & Partner Management</td>
-            <td>⭐️⭐️⭐️⭐️⭐️</td>
-          </tr>
-         </table>
-        </td>
-      </tr>
-     </table>
-  <hr>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+</style>
+</head>
+
+<body>
+<table style="width:40%">
+  <caption><strong>24 yrs in the marketplace</strong></caption>
+  <tr>
+    <th>Skill Set</th>
+    <th>Expertise</th>
+  </tr>
+  <tr>
+    <td>Contract Life-cycle</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td>Negotiation</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td>Business Analysis</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td>Technical Writing</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td>Programming</td>
+    <td>⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td>Process Improvement</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td>Order 2 Cash</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td>Rapid Assesment & Recovery of Troubled Projects</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td>Vendor & Partner Management</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+</table>
 
   <h4>Detailed CV</h4>
   <ol>
