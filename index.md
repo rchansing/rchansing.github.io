@@ -22,7 +22,7 @@
       <th>email:rchansing@yahoo.com</th>
       <th>Mob:+971 52388 0864</th>
       <th><a href="Detailed CV.html">My Detailed CV</a></th>
-      <th>https://linkedin.com/in/rchansing</th>
+      <th>in:linkedin.com/in/rchansing</th>
       <th>Add: Dubai, UAE</th>
     </tr>
   </table>
