@@ -52,7 +52,7 @@
       <td>2010-2011</td>
       <td>Sr Project Manager</td>
       <td>Ericsson</td>
-      <td>Canada</td>
+      <td>USA | Canada</td>
     </tr>
     <tr>
       <td>2005-2009</td>
