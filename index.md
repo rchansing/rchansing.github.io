@@ -28,7 +28,7 @@
   </table>
   <hr />
   <h3>Work Experience</h3>
-  <table style="width:40%" cellspacing="0">
+  <table style="width:70%" cellspacing="0">
     <colgroup span="4"></colgroup>
     <tr>
       <th>Date</th>
