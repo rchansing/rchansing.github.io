@@ -17,7 +17,7 @@
         <table style="width:100%">
           <tr>
             <th>PMP</th>
-              <td>Industrial Electronics</td>
+            <th>Industrial Electronics</th>
           </tr>
           <tr>
             <th rowspan="2">George Washington University School of Business</th>
