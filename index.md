@@ -28,7 +28,7 @@
       <th>Add: Dubai, UAE</th>
     </tr>
   </table>
-  <hr />
+
   <h3>Work Experience</h3>
   <table style="width:60%" cellspacing="0">
     <colgroup span="4"></colgroup>
