@@ -13,6 +13,24 @@
       <td>
         <h1>Rhaponzolo Chansing</h1>
         <strong>Project & Program Manager</strong>
+        
+        <table style="width:100%">
+          <tr>
+            <th>Name:</th>
+              <td>Bill Gates</td>
+          </tr>
+          <tr>
+            <th rowspan="3">George Washington University School of Business</th>
+              <td>Master Project Management</td>
+          </tr>
+          <tr>
+              <td>PMP</td>
+          </tr>
+          <tr>
+              <td>Industrial Electronics</td>
+          </tr>
+        </table>
+        
         <p>George Washington University School of Business | PMP | Industrial Electronics</p>
         <p>Master Project Management</p>
       </td>
