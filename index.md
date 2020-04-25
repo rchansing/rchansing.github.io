@@ -16,18 +16,12 @@
         
         <table style="width:100%">
           <tr>
-            <th>Name:</th>
-              <td>Bill Gates</td>
-          </tr>
-          <tr>
-            <th rowspan="3">George Washington University School of Business</th>
-              <td>Master Project Management</td>
-          </tr>
-          <tr>
-              <td>PMP</td>
-          </tr>
-          <tr>
+            <th>PMP</th>
               <td>Industrial Electronics</td>
+          </tr>
+          <tr>
+            <th rowspan="2">George Washington University School of Business</th>
+              <td>Master Project Management</td>
           </tr>
         </table>
         
