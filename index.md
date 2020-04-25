@@ -134,6 +134,10 @@ th, td {
     <td>Vendor & Partner Management</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
+  <tr>
+    <td>Coaching & Mentoring</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
 </table>
   <hr/>
   <h4>Detailed CV</h4>
