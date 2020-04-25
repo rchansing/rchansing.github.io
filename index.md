@@ -159,12 +159,12 @@ th, td {
   <ol>
     <a href="Media Reports.html">Media Reports</a>
   </ol>
-  <162>
+  <hr>
   <h4>Education</h4>
   <ol>
     <a href="Education.html">Education</a>
   </ol>
-  <167>
+  <hr>
   <h4>Skills acquired through the years</h4>
   <ol>
     <a href="Skills.html">Skills Cloud</a>
