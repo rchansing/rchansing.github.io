@@ -13,7 +13,8 @@
       <td>
         <h1>Rhaponzolo Chansing</h1>
         <strong>Project & Program Manager</strong>
-        <p>George Washington University School of Business - Master Project Management | PMP | Industrial Electronics</p>
+        <p>George Washington University School of Business | PMP | Industrial Electronics</p>
+        <p>Master Project Management</p>
       </td>
     </tr>
   </table>
