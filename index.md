@@ -135,6 +135,10 @@ th, td {
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
+    <td>Fraud Management</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
     <td>Coaching & Mentoring</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
