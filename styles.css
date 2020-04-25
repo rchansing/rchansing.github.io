@@ -13,9 +13,9 @@ h4 {
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: black;
-  border-width: 50px;
-  width: 50%;
+  border-color: red;
+  border-width: 5px;
+  width: 5%;
 }
 th {
   color: #442727;
