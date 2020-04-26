@@ -30,7 +30,8 @@
   </table>
 <hr>
   <h3>Work Experience</h3>
-  padding: 1em {
+  table {
+  padding: 20%; 
   }
   <table style="width:50%">
     <colgroup span="4"></colgroup>
