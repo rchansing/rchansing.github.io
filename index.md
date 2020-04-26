@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <table cellspacing="20">
+  <table style:"width:70%" cellspacing="20">
     <tr>
       <td><img src="Rhaponzolo Chansing.jpg" height="125" width="100" alt="Rhaponzolo Chansing picture"></td>
       <td>
@@ -19,7 +19,7 @@
       </td>
     </tr>
   </table>
-  <table style="width:100%" border="0" cellspacing="0">
+  <table style="width:90%" border="0" cellspacing="0">
     <tr>
       <th>email:rchansing@yahoo.com</th>
       <th>Mob:+971 52388 0864</th>
@@ -30,14 +30,6 @@
   </table>
 <hr>
   <h3>Work Experience</h3>
-  
-  <style>
-  table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-  }
-  </style>
-  
   <table style="width:53%">
     <colgroup span="4"></colgroup>
     <tr>
