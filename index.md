@@ -28,20 +28,11 @@
       <th>Add: Dubai, UAE</th>
     </tr>
   </table>
-  <hr>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 5px;
-  text-align: left;
-}
-</style>
 <hr>
   <h3>Work Experience</h3>
-  <table style="width:60%">
+  padding: 1em {
+  }
+  <table style="width:50%">
     <colgroup span="4"></colgroup>
     <tr>
       <th>Date</th>
@@ -50,7 +41,7 @@ th, td {
       <th>Place</th>
     </tr>
     <tr>
-      <td>2013-2017</td>
+      <td >2013-2017</td>
       <td>Sr Project Manager</td>
       <td>Ericsson</td>
       <td>Saudi Arabia</td>
