@@ -38,7 +38,7 @@
   }
   </style>
   
-  <table style="width:50%">
+  <table style="width:100%">
     <colgroup span="4"></colgroup>
     <tr>
       <th>Date</th>
