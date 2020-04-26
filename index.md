@@ -28,6 +28,17 @@
       <th>Add: Dubai, UAE</th>
     </tr>
   </table>
+  <hr>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+</style>
 <hr>
   <h3>Work Experience</h3>
   <table style="width:60%">
