@@ -30,10 +30,15 @@
   </table>
 <hr>
   <h3>Work Experience</h3>
- th, td {
-  padding: 15px;
-}
-  <table style="width:100%">
+  
+  <style>
+  table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  }
+  </style>
+  
+  <table style="width:60%">
     <colgroup span="4"></colgroup>
     <tr>
       <th>Date</th>
