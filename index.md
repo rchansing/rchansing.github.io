@@ -28,7 +28,7 @@
       <th>Add: Dubai, UAE</th>
     </tr>
   </table>
-<hr/>
+  <hr>
   <h3>Work Experience</h3>
   <table style="width:53%">
     <colgroup span="4"></colgroup>
@@ -81,17 +81,17 @@
       <td>Philippines</td>
     </tr>
   </table>
-  <hr/>
-<style>
-table, th, td {
+  <hr>
+  <style>
+  table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-}
-th, td {
+  }
+  th, td {
   padding: 5px;
   text-align: left;
-}
-</style>
+  }
+  </style>
 
 <body>
 <table style="width:40%">
@@ -144,32 +144,32 @@ th, td {
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
 </table>
-  <hr/>
+  <hr>
   <h4>Detailed CV</h4>
   <ol>
     <a href="Detailed CV.html">Detailed CV</a>
   </ol>
-  <hr/>
+  <hr>
   <h4>Implemented Technologies and Business Solutions</h4>
   <ol>
     <a href="Implemented Technologies and Business Solutions.html">Implemented Technologies and Business Solutions</a>
   </ol>
-  <hr/>
+  <hr>
   <h4>My Projects' Media Press Releases</h4>
   <ol>
     <a href="Media Reports.html">Media Reports</a>
   </ol>
-  <hr/>
+  <hr>
   <h4>Education</h4>
   <ol>
     <a href="Education.html">Education</a>
   </ol>
-  <hr/>
+  <hr>
   <h4>Skills acquired through the years</h4>
   <ol>
     <a href="Skills.html">Skills Cloud</a>
   </ol>
-  <hr/>
+  <hr>
   <h4>Contact Me</h4>
   <ol>
     <a href="See something say something.html">See something say something</a>
@@ -179,14 +179,14 @@ th, td {
   <ol>
     <a href="I speak what.html">I speak what?</a>
   </ol>
-  <hr/>
+  <hr>
   <h4>Personal</h4>
   <ol>
     <a href="Personal.html">It's Personal:)</a>
   </ol>
-  <hr/>
+  <hr>
   <label>Search</label>
   <input type="search" name="" value="">
-  <hr/>
+  <hr>
  </body>
 
