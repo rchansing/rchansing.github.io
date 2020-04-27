@@ -21,11 +21,11 @@
   </table>
   <table style="width:97%">
     <tr>
-      <th>email:rchansing@yahoo.com</th>
-      <th>Mob:+971 52388 0864</th>
+      <th class="email">email:rchansing@yahoo.com</th>
+      <th class="Mob">Mob:+971 52388 0864</th>
       <th><a href="Detailed CV.html">My Detailed CV</a></th>
-      <th>in:linkedin.com/in/rchansing</th>
-      <th>Add: Dubai, UAE</th>
+      <th class="in">in:linkedin.com/in/rchansing</th>
+      <th class="Add">Add: Dubai, UAE</th>
     </tr>
   </table>
   <hr>
