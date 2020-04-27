@@ -1,3 +1,4 @@
+/**************************TAG SELECTOR***********************/
 body {
  background-color: #eae7d9;
 }
@@ -16,7 +17,20 @@ hr {
   border-color: #222831;
   border-width: 5px;
   width: 10%;
-}
+ }
 th {
   color: #442727;
+}
+ /*************************CLASS SELECTOR*************************/
+.email:hover {
+  background-color: white;
+}
+.mob:hover {
+  background-color: white;
+}
+.in:hover {
+  background-color: white;
+}
+.add:hover {
+  background-color: white;
 }
