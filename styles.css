@@ -23,14 +23,14 @@ th {
 }
  /*************************CLASS SELECTOR*************************/
 .email:hover {
-  background-color: white;
+  background-color: gold;
 }
 .mob:hover {
-  background-color: white;
+  background-color: gold;
 }
 .in:hover {
-  background-color: white;
+  background-color: gold;
 }
 .add:hover {
-  background-color: white;
+  background-color: gold;
 }
