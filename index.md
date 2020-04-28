@@ -38,6 +38,12 @@
       <th>Company</th>
       <th>Place</th>
     </tr>
+     <tr>
+      <td >2017-2020</td>
+      <td>Business Development Director</td>
+      <td>Family-owned enterprise</td>
+      <td>USA | Saudi Arabia</td>
+    </tr>
     <tr>
       <td >2013-2017</td>
       <td>Sr Project Manager</td>
