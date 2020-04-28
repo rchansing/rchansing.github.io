@@ -5,6 +5,7 @@
   <meta charset="utf-8">
   <title>Rhaponzolo Chansing WebSite</title>
   <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="favicon.ico">
 </head>
 
 <body>
