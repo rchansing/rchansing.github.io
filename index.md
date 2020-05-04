@@ -4,29 +4,29 @@
 <head>
   <meta charset="utf-8">
   <title>Rhaponzolo Chansing</title>
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="styles.css">
   <link rel="icon" href="favicon.ico">
   <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&family=Merriweather:wght@300&family=Montserrat:wght@100&family=Sacramento&display=swap" rel="stylesheet">
 </head>
 
 <body>
   <div class="top-container">
-    <img class="top-cloud" src="images/cloud.png" alt="cloud-img">
+    <img class="top-cloud" src="cloud.png" alt="cloud-img">
     <h1>Im Rhaponzolo.</h1>
-    <h2>Senior Program manager</h2>
-    <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
-    <img src="images/mountain.png" alt="mountain-img">
+    <h2>Senior Program Manager</h2>
+    <img class="bottom-cloud" src="cloud.png" alt="cloud-img">
+    <img src="mountain.png" alt="mountain-img">
   </div>
   <div class="middle-container">
     <div class="profile">
-      <img src="images/cycling.png" height="150" width="150" alt="cycling-img">
+      <img src="cycling.png" height="150" width="150" alt="cycling-img">
       <h2>Hello.</h2>
       <p class="intro">Im a Program Manager based in Dubai. Passionate in Contract life-cycle.</p>
     </div>
     <hr>
     <div class="skills">
       <div class="skill-row">
-        <img class="backpack-img" src="images/backpack.png" alt="backpack-img">
+        <img class="backpack-img" src="backpack.png" alt="backpack-img">
         <h2>My Skills.</h2>
         <p>⛹️‍Contract Life-Cycle Management | Technical Writing</p>
         <p>🏊Business Analytics | Negotiation | Process Improvement</p>
@@ -35,7 +35,7 @@
       </div>
       <hr />
       <div class="work-row">
-        <img class="motocross-img" src="images/motocross.png" alt="motocross-img">
+        <img class="motocross-img" src="motocross.png" alt="motocross-img">
         <h2>Work Experience.</h2>
         <table style="width:100%" cellspacing="10">
           <colgroup span="4"></colgroup>
@@ -80,7 +80,7 @@
     </div>
     <hr>
     <div class="contact-me">
-      <img class="hiking-img" src="images/hiking.png" alt="hiking-img">
+      <img class="hiking-img" src="hiking.png" alt="hiking-img">
       <h2 class="contact-me">Let's talk. I'm the person your looking.</h2>
       <a class="btn" href="mailto:rchansing@yahoo.com">CONTACT ME</a>
     </div>
