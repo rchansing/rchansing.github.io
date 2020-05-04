@@ -1,4 +1,4 @@
-/**********************TAG Selector*********************/
+
 body {
   color: #40514e;
   margin: 0;
@@ -45,7 +45,7 @@ a {
   text-decoration: underline;
 }
 
-/****************************CLASS Selector****************/
+
 .top-cloud {
   position: absolute;
   right: 300px;
@@ -152,21 +152,7 @@ a {
   text-decoration: none;
 }
 
-/***************HIDDEN Sample***************/
-.skillsdes {
-  clear: left;
-}
-/***********************************************/
-/********************************/
 .pro {
   text-decoration: underline;
 }
-/*******************************/
-/*********************/
-.contact-me {
-  width: 40%;
-  margin: 10% auto 10%;
-  text-align: center;
-  line-height: 1;
-}
-/*********************/
+
