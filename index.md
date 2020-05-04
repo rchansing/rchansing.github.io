@@ -87,8 +87,7 @@
   </div>
   <div class="bottom-container">
     <a class="footer-link1" href="https://www.linkedin.com/in/rchansing">LinkedIn</a>
-    <a class="footer-link2" href="https://rchansing.github.io">Detailed CV</a>
-    <a href="webpage.html">Webpage</a>
+    <a class="footer-link2" href="webpage.html">My Webpage</a>
     <p class="copyright">© 2020 Rhaponzolo Chansing.</p>
   </div>
 
