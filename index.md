@@ -30,10 +30,10 @@
         <h2>My Skills.</h2>
         <p>⛹️‍Contract Life-Cycle Management | Technical Writing</p>
         <p>🏊Business Analytics | Negotiation | Process Improvement</p>
-        <p>🤾🏽‍‍Fraud Management | Coach & Mentor | Vendor & Partner Management</p>
+        <p>🤾Fraud Management | Coach & Mentor | Vendor & Partner Management</p>
         <p>🤽‍Programming-Web SQL Tableau Python</p>
       </div>
-      <hr />
+      <hr>
       <div class="work-row">
         <img class="motocross-img" src="motocross.png" alt="motocross-img">
         <h2>Work Experience.</h2>
@@ -87,7 +87,7 @@
   </div>
   <div class="bottom-container">
     <a class="footer-link1" href="https://www.linkedin.com/in/rchansing">LinkedIn</a>
-    <a class="footer-link2" href="webpage.html">My Webpage</a>
+    <a class="footer-link2" href="webpage.html">Webpage</a>
     <p class="copyright">© 2020 Rhaponzolo Chansing.</p>
   </div>
 
