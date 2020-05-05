@@ -40,13 +40,13 @@
       <th>Place</th>
     </tr>
      <tr>
-      <td >2017-2020</td>
-      <td>Business Development Director</td>
+      <td >2020-2017</td>
+      <td>Business Development Manager</td>
       <td>Family-owned enterprise</td>
       <td>USA | Saudi Arabia</td>
     </tr>
     <tr>
-      <td >2013-2017</td>
+      <td >2017-2013</td>
       <td>Sr Project Manager</td>
       <td>Ericsson</td>
       <td>Saudi Arabia</td>
@@ -58,31 +58,31 @@
       <td>Japan</td>
     </tr>
     <tr>
-      <td>2010-2011</td>
+      <td>2011-2010</td>
       <td>Sr Project Manager</td>
       <td>Ericsson</td>
       <td>USA | Canada</td>
     </tr>
     <tr>
-      <td>2005-2009</td>
+      <td>2009-2005</td>
       <td>Sr Program Manager</td>
       <td>Ericsson</td>
       <td>Saudi Arabia</td>
     </tr>
     <tr>
-      <td>2000-2005</td>
+      <td>2005-2000</td>
       <td>Project Manager</td>
       <td>Ericsson</td>
       <td>Philippines</td>
     </tr>
     <tr>
-      <td>1997-2000</td>
+      <td>2000-1997</td>
       <td>Technical Support Lead</td>
       <td>SVIT</td>
       <td>Philippines</td>
     </tr>
     <tr>
-      <td>1995-1997</td>
+      <td>1997-1995</td>
       <td>System Administrator</td>
       <td>AMA</td>
       <td>Philippines</td>
