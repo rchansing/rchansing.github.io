@@ -41,7 +41,7 @@
     </tr>
      <tr>
       <td >2020-2017</td>
-      <td>Business Development Manager</td>
+      <td>Business Analyst</td>
       <td>Pinky & Rain Events</td>
       <td>USA | Saudi Arabia</td>
     </tr>
