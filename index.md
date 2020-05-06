@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <table style="width:72.2%">
+  <table style="width:75%">
     <tr>
       <td><img src="Rhaponzolo Chansing.jpg" height="125" width="100" alt="Rhaponzolo Chansing picture"></td>
       <td>
@@ -20,7 +20,7 @@
       </td>
     </tr>
   </table>
-  <table style="width:99%">
+  <table style="width:97%">
     <tr>
       <th class="email">email:rchansing@yahoo.com</th>
       <th class="Mob">Mob:+971 52388 0864</th>
