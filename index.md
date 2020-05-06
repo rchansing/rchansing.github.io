@@ -20,7 +20,7 @@
       </td>
     </tr>
   </table>
-  <table style="width:99%">
+  <table style="width:100%">
     <tr>
       <th class="email">email:rchansing@yahoo.com</th>
       <th class="Mob">Mob:+971 52388 0864</th>
