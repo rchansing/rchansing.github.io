@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <table style="width:75%">
+  <table style="width:80%">
     <tr>
       <td><img src="Rhaponzolo Chansing.jpg" height="125" width="100" alt="Rhaponzolo Chansing picture"></td>
       <td>
