@@ -14,7 +14,7 @@
       <td><img src="Rhaponzolo Chansing.jpg" height="125" width="100" alt="Rhaponzolo Chansing picture"></td>
       <td>
         <h1>Rhaponzolo Chansing</h1>
-        <strong>Project & Program Manager</strong>
+        <strong>Project Manager | Program Manager | Business Analyst</strong>
         <p>George Washington University School of Business - Master Project Management</p> 
         <p>PMP ⎮ Industrial Electronics</p>
       </td>
