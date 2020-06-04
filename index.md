@@ -172,6 +172,11 @@
     <a href="Education.html">Education</a>
   </ol>
   <hr>
+  <h4>Programming Languages</h4>
+  <ol>
+    <a href="Programming Languages.html">Programming Languages</a>
+  </ol>
+  <hr>
   <h4>Skills acquired through the years</h4>
   <ol>
     <a href="Skills.html">Skills Cloud</a>
