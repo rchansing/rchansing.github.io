@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Programming Languages</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    td,
+    th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+  </style>
+
+  <table>
+    <tr>
+      <th>Language</th>
+    </tr>
+    <tr>
+      <td>Javascript</td>
+      <td>Node | Express</td>
+      <td>React</td>
+      <td>MongoDB</td>
+      <td>SQL</td>
+      <td>Python</td>
+      <td>DOM</td>
+      <td>HTML</td>
+      <td>CSS</td>
+      <td>Bootstrap</td>
+    </tr>
+  </table>
+
+</body>
+
+</html>
