@@ -44,8 +44,8 @@
      <tr>
       <td >2020-2017</td>
       <td>Business Analyst</td>
-      <td>Pinky & Rain Events</td>
-      <td>USA | Saudi Arabia</td>
+      <td>SkyRain Advertising</td>
+      <td>USA | Philippines | UAE</td>
     </tr>
     <tr>
       <td >2017-2013</td>
