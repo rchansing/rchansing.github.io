@@ -17,7 +17,7 @@
       <td>
         <h1>Rhaponzolo Chansing</h1>
         <strong>Project Manager | Program Manager | Business Analyst</strong>
-        <p>George Washington University School of Business - Master Project Management</p> 
+        <p>George Washington University School of Business - Graduate Certificate Project Management</p> 
         <p>PMP ⎮ Industrial Electronics</p>
       </td>
     </tr>
@@ -44,7 +44,7 @@
      <tr>
       <td >2020-2017</td>
       <td>Business Analyst</td>
-      <td>SkyRain Advertising</td>
+      <td>SkyRain Solutions</td>
       <td>USA | Philippines | UAE</td>
     </tr>
     <tr>
