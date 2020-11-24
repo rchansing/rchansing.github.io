@@ -113,15 +113,15 @@
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
-    <td>Negotiation</td>
+    <td>Industrial IoT</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
-    <td>Business Analysis</td>
+    <td>Business Analytics</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
-    <td>Technical Writing</td>
+    <td>Smart Manufacturing, Smart Container, Smart Metering</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@
     <td>⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
-    <td>Process Improvement</td>
+    <td>Fintech</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
@@ -137,7 +137,7 @@
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
-    <td>Rapid Assesment & Recovery of Troubled Projects</td>
+    <td>Blockchain</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
