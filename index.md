@@ -17,7 +17,7 @@
       <td>
         <h1>Rhaponzolo Chansing</h1>
         <strong>Project Manager | Program Manager | Business Analyst</strong>
-        <p>George Washington University - MBA Project Management</p> 
+        <p>George Washington University School of Business - MBA Project Management</p> 
         <p>PMP ⎮ BS Computer Science</p>
       </td>
     </tr>
@@ -25,7 +25,7 @@
   <table style="width:100%">
     <tr>
       <th class="email">email:rchansing@yahoo.com</th>
-      <th class="Mob">Mob:+971 52388 0864</th>
+      <th class="Mob">Mob:+971523880864</th>
       <th><a href="Detailed CV.html">My Detailed CV</a></th>
       <th class="in">in:linkedin.com/in/rchansing</th>
       <th class="Add">Add: Dubai, UAE</th>
