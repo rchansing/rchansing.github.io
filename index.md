@@ -17,7 +17,7 @@
       <td>
         <h1>Rhaponzolo Chansing</h1>
         <strong>Project Manager | Program Manager | Business Analyst</strong>
-        <p>George Washington University School of Business - MBA Project Management</p> 
+        <p>George Washington University School of Business - Master of Science in Project Management</p> 
         <p>PMP ⎮ BS Computer Science</p>
       </td>
     </tr>
