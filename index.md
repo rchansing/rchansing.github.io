@@ -67,13 +67,13 @@
     </tr>
     <tr>
       <td>2009-2005</td>
-      <td>Sr Program Manager</td>
+      <td>Program Manager</td>
       <td>Ericsson</td>
       <td>Saudi Arabia</td>
     </tr>
     <tr>
       <td>2005-2000</td>
-      <td>Project Manager</td>
+      <td>Project Manager | Program Manager</td>
       <td>Ericsson</td>
       <td>Philippines</td>
     </tr>
