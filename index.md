@@ -149,7 +149,7 @@
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
-    <td>Coaching & Mentoring</td>
+    <td>Sustainability</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
 </table>
