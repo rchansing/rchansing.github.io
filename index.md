@@ -16,7 +16,7 @@
       <td><img src="Rhaponzolo Chansing.jpg" height="125" width="100" alt="Rhaponzolo Chansing picture"></td>
       <td>
         <h1>Rhaponzolo Chansing</h1>
-        <strong>Project Manager | Program Manager | Business Analyst</strong>
+        <strong>Project Manager | Program Manager | Business Intelligence Analyst</strong>
         <p>George Washington University School of Business - Master of Science in Project Management</p> 
         <p>PMP ⎮ BS Computer Science</p>
       </td>
@@ -43,7 +43,7 @@
     </tr>
      <tr>
       <td >2020-2017</td>
-      <td>Business Analyst</td>
+      <td>Prog Mgr, BI Analyst</td>
       <td>SkyRain Solutions</td>
       <td>USA | Philippines | UAE</td>
     </tr>
@@ -109,7 +109,7 @@
     <th>Expertise</th>
   </tr>
   <tr>
-    <td>Contract Life-cycle</td>
+    <td>Program Management</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
@@ -121,11 +121,11 @@
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
-    <td>Smart Manufacturing, Smart Container, Smart Metering</td>
+    <td>Financial Management</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
-    <td>Programming</td>
+    <td>Quality Management</td>
     <td>⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
-    <td>Order 2 Cash</td>
+    <td>Operations</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
@@ -141,11 +141,11 @@
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
-    <td>Vendor & Partner Management</td>
+    <td>Change Management</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
-    <td>Fraud Management</td>
+    <td>Agile</td>
     <td>⭐️⭐️⭐️⭐️⭐️</td>
   </tr>
   <tr>
