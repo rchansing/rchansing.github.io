@@ -25,10 +25,10 @@
   <table style="width:100%">
     <tr>
       <th class="email">email:rchansing@yahoo.com</th>
-      <th class="Mob">Mob:+971523880864</th>
+      <th class="Mob">Mob:+639294796681</th>
       <th><a href="Detailed CV.html">My Detailed CV</a></th>
       <th class="in">in:linkedin.com/in/rchansing</th>
-      <th class="Add">Add: Dubai, UAE</th>
+      <th class="Add">Add: Manila, Philippines</th>
     </tr>
   </table>
   <hr>
@@ -42,26 +42,26 @@
       <th>Place</th>
     </tr>
      <tr>
-      <td >2020-2017</td>
-      <td>Prog Mgr, BI Analyst</td>
+      <td >Present-2017</td>
+      <td>Sr Prog Mgr, BI Analyst</td>
       <td>SkyRain Solutions</td>
-      <td>USA | Philippines | UAE</td>
+      <td>USA | UAE</td>
     </tr>
     <tr>
       <td >2017-2013</td>
-      <td>Sr Project Manager</td>
+      <td>Sr Project Manager | Program Manager</td>
       <td>Ericsson</td>
       <td>Saudi Arabia</td>
     </tr>
     <tr>
       <td>2012-2012</td>
-      <td>Sr Project Manager</td>
+      <td>Program Manager</td>
       <td>Ericsson</td>
       <td>Japan</td>
     </tr>
     <tr>
       <td>2011-2010</td>
-      <td>Sr Project Manager</td>
+      <td>Program Manager</td>
       <td>Ericsson</td>
       <td>USA | Canada</td>
     </tr>
@@ -78,15 +78,9 @@
       <td>Philippines</td>
     </tr>
     <tr>
-      <td>2000-1997</td>
+      <td>2000-1995</td>
       <td>Technical Support Lead</td>
       <td>SVIT</td>
-      <td>Philippines</td>
-    </tr>
-    <tr>
-      <td>1997-1995</td>
-      <td>System Administrator</td>
-      <td>AMA</td>
       <td>Philippines</td>
     </tr>
   </table>
@@ -164,7 +158,7 @@
     <a href="Implemented Technologies and Business Solutions.html">Implemented Technologies and Business Solutions</a>
   </ol>
   <hr>
-  <h4>My Projects' Media Press Releases</h4>
+  <h4>My Program's Press Releases</h4>
   <ol>
     <a href="Media Reports.html">Media Reports</a>
   </ol>
