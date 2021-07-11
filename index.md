@@ -187,11 +187,11 @@
   <ol>
     <a href="I speak what.html">I speak what?</a>
   </ol>
-  <---!<hr>
+  <hr>
   <h4>Personal</h4>
   <ol>
     <a href="Personal.html">It's Personal:)</a>
-  </ol>>
+  </ol>
   <hr>
   <label>Search</label>
   <input type="search" name="" value="">
