@@ -18,7 +18,7 @@
         <h1>Rhaponzolo Chansing</h1>
         <strong>Project Manager | Program Manager | Business Intelligence Analyst</strong>
         <p>The George Washington University - Master of Science in Project Management</p> 
-        <p>PMP ⎮ BS Computer Science</p>
+        <p>PMP</p>
       </td>
     </tr>
   </table>
