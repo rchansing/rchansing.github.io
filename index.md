@@ -45,7 +45,7 @@
       <td >Present-2017</td>
       <td>Sr Prog Mgr, BI Analyst</td>
       <td>SkyRain Solutions</td>
-      <td>USA | UAE</td>
+      <td>UAE</td>
     </tr>
     <tr>
       <td >2017-2013</td>
