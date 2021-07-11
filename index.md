@@ -191,10 +191,10 @@
   <---!<h4>Personal</h4>
   <ol>
     <a href="Personal.html">It's Personal:)</a>
-  </ol>
+  </ol>>
   <hr>
   <label>Search</label>
   <input type="search" name="" value="">
-  <hr>>
+  <hr>
  </body>
 
