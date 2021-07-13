@@ -178,10 +178,10 @@
     <a href="Skills.html">Skills Cloud</a>
   </ol>
   <hr>
-  <h4>Contact Me</h4>
+  <!---<h4>Contact Me</h4>
   <ol>
     <a href="See something say something.html">See something say something</a>
-  </ol>
+  </ol>--->
   <hr>
   <h4>Languages</h4>
   <ol>
