@@ -17,7 +17,7 @@
       <td>
         <h1>Rhaponzolo Chansing</h1>
         <strong>Project Manager | Program Manager | Business Intelligence Analyst</strong>
-        <p>The George Washington University - Master of Science in Project Management</p> 
+        <p>The George Washington University - Master's in Project Management</p> 
         <p>PMP</p>
       </td>
     </tr>
@@ -188,13 +188,13 @@
     <a href="I speak what.html">I speak what?</a>
   </ol>
   <hr>
-  <!---<h4>Personal</h4>
-  <ol>
-    <a href="Personal.html">It's Personal:)</a>
-  </ol>--->
   <hr>
   <label>Search</label>
   <input type="search" name="" value="">
   <hr>
+  <!---<h4>Personal</h4>
+  <ol>
+    <a href="Personal.html">It's Personal:)</a>
+  </ol>--->
  </body>
 
