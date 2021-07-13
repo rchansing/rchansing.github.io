@@ -25,7 +25,7 @@
   <table style="width:100%">
     <tr>
       <th class="email">email:rchansing@yahoo.com</th>
-      <th class="Mob">Mob:+639294796681</th>
+      <!---<th class="Mob">Mob:+639294796681</th>--->
       <th><a href="Detailed CV.html">My Detailed CV</a></th>
       <th class="in">in:linkedin.com/in/rchansing</th>
       <th class="Add">Add: Manila, Philippines</th>
